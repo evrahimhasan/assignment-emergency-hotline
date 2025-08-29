@@ -267,22 +267,3 @@ const mainCallHistory =document.getElementById('all-call').addEventListener('cli
     }
     
 })
-
-// Police Helpline Number 2
-// const mainCallHistory =document.getElementById('police-call').addEventListener('click',function(e){
-
-//     const nevberCoin = parseInt(document.getElementById('navber-coin').innerText)
-//     if( nevberCoin >= 20 ){
-//         const parentCallHistory = document.getElementById('call-history')
-
-    
-//     const addTimeElement = document.getElementById('National-Emergency')
-
-    
-//     const creatElement = addTimeElement.cloneNode(true)
-
-
-//     parentCallHistory.appendChild(creatElement)
-//     }
-    
-// })
